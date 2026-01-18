@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/AdnanISB/helm-argocd-imageupdate.git
-    path: .
+    path: flask-app
     targetRevision: main
     helm:
       valueFiles:
